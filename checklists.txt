@@ -1,0 +1,5 @@
+1. Download the actual build
+2. Start build
+3. Perform general test cases
+4. Perform regression test
+5. Stop and delite the build
