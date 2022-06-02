@@ -1,0 +1,9 @@
+Summary: [animation] Animation of falling tree is coust without interaction
+Steps to reproduce: 1. Boot the title
+                    2. Find any forest
+					3. Wait until falling tree animation will be coust
+Description: The falling tree animation is triggered without ant interection with player, NPC and environment. 
+After animation is ended, lying tree is missing. The issue is present in all location with trees.
+Severity: low
+Probability: medium
+Attachments: screenshot, recording, screenshot of the map, save
